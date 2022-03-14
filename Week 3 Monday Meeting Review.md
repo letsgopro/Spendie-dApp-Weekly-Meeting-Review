@@ -18,7 +18,7 @@
 
 
 
-Our homepage of the front-end development will be similar like [quickswap](https://quickswap.exchange/#/swap)![Screen Shot 2022-03-14 at 15.11.07](/Users/cktonysw/Library/Application%20Support/typora-user-images/Screen%20Shot%202022-03-14%20at%2015.11.07.png)
+Our homepage of the front-end development will be similar like [quickswap](https://quickswap.exchange/#/swap)![Screen Shot 2022-03-14 at 15.11.07](https://raw.githubusercontent.com/letsgopro/Spendie-dApp-Weekly-Meeting-Review/master/quickswap-Screen%20Shot%202022-03-14%20at%2015.11.07%20copy.png)
 
 **Secondly**, have a look at [Jira Spendie RMIT PoC Software project](https://spendie.atlassian.net/jira/software/projects/SRP/boards/3)
 
@@ -26,19 +26,19 @@ Then you should
 
 **1.**Go through the SRPs(as well as what we learnt call this 'PBIs'), be familiar with the SRP that you are assigned and others. You will find more details and understand each SRP easier when you click on each SRP.
 
-![Screen Shot 2022-03-14 at 14.47.16](/Users/cktonysw/Library/Application%20Support/typora-user-images/Screen%20Shot%202022-03-14%20at%2014.47.16.png)
+![Screen Shot 2022-03-14 at 14.47.16](https://raw.githubusercontent.com/letsgopro/Spendie-dApp-Weekly-Meeting-Review/master/SRP-Sprint%201%20-Screen%20Shot%202022-03-14%20at%2014.47.16%20copy.png)
 
 
 
 **2.**Working together and Starting working at your SRP
 
-![Screen Shot 2022-03-14 at 14.51.09](/Users/cktonysw/Library/Application%20Support/typora-user-images/Screen%20Shot%202022-03-14%20at%2014.51.09.png)
+![Screen Shot 2022-03-14 at 14.51.09](https://raw.githubusercontent.com/letsgopro/Spendie-dApp-Weekly-Meeting-Review/master/Sprint1.png)
 
 **3.**Have a look at our 6 sprints to make sure you have a overview of  the whole project
 
 
 
-![Screen Shot 2022-03-14 at 14.51.26](/Users/cktonysw/Library/Application%20Support/typora-user-images/Screen%20Shot%202022-03-14%20at%2014.51.26.png)
+![Screen Shot 2022-03-14 at 14.51.26](https://raw.githubusercontent.com/letsgopro/Spendie-dApp-Weekly-Meeting-Review/master/Sprint-6.png)
 
 
 
