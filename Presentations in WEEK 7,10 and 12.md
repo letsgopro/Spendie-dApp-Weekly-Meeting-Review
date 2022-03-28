@@ -36,7 +36,7 @@ Presentation 1: The focus is on project description, functional requirements, us
 
 
 
-![Screen Shot 2022-03-28 at 11.07.33](https://raw.githubusercontent.com/letsgomelck/Picsee/main/Picsee/Screen Shot 2022-03-28 at 11.07.33LmiLGG.png)
+![Screen Shot 2022-03-28 at 11.07.33](https://raw.githubusercontent.com/letsgomelck/Picsee/main/Picsee/Screen%20Shot%202022-03-28%20at%2011.07.33LmiLGG.png)
 
 
 
