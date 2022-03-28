@@ -1,12 +1,12 @@
 # Presentations in WEEK 7,10 and 12
 
-> Hey Great Spendie Web 3.0 Developers! 
+> 🥳Hey Great Spendie Web 3.0 Developers! 
 
 
 
 
 
-# 1. Spendie dApp Presentation on Week 7, 10 and 12
+# 1. 🥳Spendie dApp Presentation on Week 7, 10 and 12
 
 ## 1.1 The exact date should be 14 April，5 May，19 May
 
@@ -31,6 +31,7 @@ Presentation 1: The focus is on project description, functional requirements, us
 ### 1.2.3 Presentation 3: The focus is on testing you have done and/or your testing plan and/or progress so far if testing is not a big part of the project. 
 
 (Folder to be announced)
+
 
 ## 1.3 I recommend We need rehearsals one week before and two day before. For example, rehearsal at our group meeting
 
