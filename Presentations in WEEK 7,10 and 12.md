@@ -36,7 +36,9 @@ Presentation 1: The focus is on project description, functional requirements, us
 ### 1.3 🥳I recommend We need rehearsals one week before and two day before. For example, rehearsal at our group meeting
 
 
+### 1.4 🥳🥳🥳About 1-2 Minutes each member. Everyone should contribute. 5-7 minutes per group
 
+Each presentation should be between 5-7 minutes. Each group member must participate. The slides need to be projected from the main room. Please upload them to the folders specified below before the class.
 ![Screen Shot 2022-03-28 at 11.07.33](https://raw.githubusercontent.com/letsgomelck/Picsee/main/Picsee/Screen%20Shot%202022-03-28%20at%2011.07.33LmiLGG.png)
 
 
