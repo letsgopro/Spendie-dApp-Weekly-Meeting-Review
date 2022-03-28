@@ -33,7 +33,7 @@ Presentation 1: The focus is on project description, functional requirements, us
 (Folder to be announced)
 
 
-## 1.3 I recommend We need rehearsals one week before and two day before. For example, rehearsal at our group meeting
+### 1.3 I recommend We need rehearsals one week before and two day before. For example, rehearsal at our group meeting
 
 
 
